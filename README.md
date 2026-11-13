@@ -1,6 +1,6 @@
 # Extended-BlackScholes-AGR
 
-Mã nguồn cho dự án mô hình hóa và định giá cổ phiếu AGR. Chi tiết các bước tái lặp xem tại file guide.md
+Mã nguồn cho dự án mô hình hóa và định giá cổ phiếu AGR. Chi tiết các bước tái lặp xem tại file `guide.md`
 
 # Language
 MATLAB 2019a
@@ -9,9 +9,7 @@ MATLAB 2019a
 Tran Trong-Phuc
 
 # Citation
-APA: Tran, T. P. (2026). Extended-BlackScholes-AGR [Computer software]. GitHub. [`https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR`](https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR)
-
-IEEE: T. P. Tran, “Extended-BlackScholes-AGR,” GitHub repository. [Online]. Available: [`https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR`](https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR). [Accessed: Nov. 12, 2026].
+[1] T. P. Tran, “Extended-BlackScholes-AGR,” GitHub repository. [Online]. Available: [`https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR`](https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR). [Accessed: Nov. 12, 2026].
 
 ```
 @misc{tran2026extended,
