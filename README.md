@@ -1,7 +1,6 @@
 # Extended-BlackScholes-AGR
 
-Source code for the AGR stock modeling and valuation project
-Mã nguồn cho dự án mô hình hóa và định giá cổ phiếu AGR
+Mã nguồn cho dự án mô hình hóa và định giá cổ phiếu AGR. Chi tiết các bước tái lặp xem tại file guide.md
 
 # Language
 MATLAB 2019a
