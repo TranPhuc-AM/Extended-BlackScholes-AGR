@@ -14,6 +14,7 @@ APA: Tran, T. P. (2026). Extended-BlackScholes-AGR [Computer software]. GitHub. 
 
 IEEE: T. P. Tran, “Extended-BlackScholes-AGR,” GitHub repository. [Online]. Available: [`https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR`](https://github.com/TranPhuc-AM/Extended-BlackScholes-AGR). [Accessed: Nov. 12, 2026].
 
+```
 @misc{tran2026extended,
   author       = {Tran, T. P.},
   title        = {{Extended-BlackScholes-AGR}},
@@ -21,3 +22,4 @@ IEEE: T. P. Tran, “Extended-BlackScholes-AGR,” GitHub repository. [Online]. 
   note         = {GitHub repository. Accessed: Nov. 12, 2026},
   year         = {2026}
 }
+```
