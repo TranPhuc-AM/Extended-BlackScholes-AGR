@@ -2,19 +2,22 @@
 % Version: 1.1.0
 % Date   : 2026-11-16
 
+
 %% Function
 function grid = gridSearch()
 rng(123)
 
+% Phan tuy chinh
 alpha_list = [0.01, 0.05, 0.1, 0.2];
 P_list = [10000, 20000, 35000, 50000];
 lambda_list = [10, 20, 35];
 
 S = readmatrix(fullfile('..', 'data', 'agr.csv'));
+def.H       = 50;
 
+% Phan co dinh
 def.N       = numel(S);
 def.dt      = 1/def.N;
-def.H       = 50;
 def.T       = def.N - def.H;
 
 train = S(1 : def.T); 
