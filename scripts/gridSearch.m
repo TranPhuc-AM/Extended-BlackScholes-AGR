@@ -55,5 +55,5 @@ result = struct2table(tbl);
 
 grid = sortrows(result, {'MAPE', 'RMSE', 'MAE'}, ...
                    {'ascend', 'ascend', 'ascend'});
-writetable(grid, fullfile('..', 'output', 'gridSearch.csv'));
+writetable(grid, fullfile('..', 'output', 'tbl-gridSearch.csv'));
 end
